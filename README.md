@@ -12,20 +12,6 @@ This project simulates a 4-microphone array(used simulation because of lack of i
 #Objective of Project
 Simulate microphone array signal for a moving sound source, Estimate DOA using GCC-PHAT & MUSIC, and stabilaze it using kalman filter. Also perform Delay-and-Sum and MVDR beamforming towards the tracked direction. Output- produces visualization and audio outputs also generates a GIF animation showing real-time DOA tracking.
 
-[Simulated Audio] 
-       ↓
-[GCC-PHAT] → (coarse DOA)
-       ↓
-[MUSIC] → (high-resolution DOA)
-       ↓
-[Kalman Filter] → (smoothed + tracked DOA)
-       ↓
-[Beamforming]
-       ├─ Delay-and-Sum Beamformer
-       └─ MVDR Beamformer
-       ↓
-[Outputs: Audio + Plots + GIF + Metrics]
-
 
 
 # Generated Outputs
