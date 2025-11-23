@@ -1,0 +1,4 @@
+Mean ABS error (deg): 23.002
+Median ABS error (deg): 22.453
+Percent within 5 deg: 10.48%
+Percent within 10 deg: 22.58%
