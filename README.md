@@ -29,19 +29,19 @@ Simulate microphone array signal for a moving sound source, Estimate DOA using G
 
 
 # Generated Outputs
-*Audio
+Audio
 1. mic1_ref.wav
 2. beamformed_ds.wav
 3. beamformed_mvdr.wav
 
-*Plots
+Plots
 1. doa_vs_time.png
 2. doa_polar_all.png
 3. doa_rose_all.png
 4. final_tracked_doa.png
 5. waveform_mic1_vs_beamformed.png
 
-*Gif
+Gif
 1. doa_animation.gif
 
 #Applications
