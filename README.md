@@ -36,5 +36,3 @@ This project demonstrates the same concepts used in smart speakers(Alexa, Google
 # License
 Please feel free to use for learning, and research purposes,
 
-#Note
-I have used llm based ai model for programming purpose.
